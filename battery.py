@@ -14,7 +14,7 @@ b_cur = float(o_cur.rpartition('=')[-1])
  
 charge = b_cur / b_max
 
-print int(charge*100) + 3
+print int(charge*100) + 2
 
 
 level = int(charge*10)
