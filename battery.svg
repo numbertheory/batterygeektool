@@ -71,14 +71,12 @@
        style="fill:#ffffff;fill-opacity:1"
        d="M 329.5 117.125 C 333.15643 117.92648 335.78125 120.32954 335.78125 123.15625 L 335.78125 215.375 C 335.78125 218.86365 331.77283 221.6875 326.78125 221.6875 L 285.90625 221.6875 C 280.91467 221.6875 276.90625 218.86365 276.90625 215.375 L 276.90625 123.15625 C 276.90625 120.35511 279.48877 117.97869 283.09375 117.15625 C 278.87901 117.56389 275.8125 118.75474 275.8125 120.1875 L 275.8125 219.78125 C 275.8125 221.55108 280.45715 223 286.21875 223 L 326.625 223 C 332.3866 223 337.03125 221.55108 337.03125 219.78125 L 337.03125 120.1875 C 337.03125 118.72443 333.8538 117.50649 329.5 117.125 z "
        id="rect3858"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt000.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="M 296.96875 110.3125 C 296.30395 110.3125 295.75 110.86645 295.75 111.53125 L 295.75 113.8125 C 295.75 113.84659 295.77849 113.87289 295.78125 113.90625 L 283.9375 113.90625 C 283.2727 113.90625 282.75 114.4602 282.75 115.125 L 282.75 115.875 C 282.75 116.5398 283.2727 117.0625 283.9375 117.0625 L 328.59375 117.0625 C 329.25855 117.0625 329.78125 116.5398 329.78125 115.875 L 329.78125 115.125 C 329.78125 114.4602 329.25855 113.90625 328.59375 113.90625 L 316.59375 113.90625 C 316.59651 113.87289 316.625 113.84659 316.625 113.8125 L 316.625 111.53125 C 316.625 110.86645 316.07105 110.3125 315.40625 110.3125 L 296.96875 110.3125 z "
        id="rect3779"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt000.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
   </g>
@@ -97,7 +95,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt100.png"
        inkscape:export-xdpi="288.147"
        inkscape:export-ydpi="288.147" />
     <rect
@@ -110,7 +107,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt090.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -123,7 +119,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt080.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -136,7 +131,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt070.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -149,7 +143,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt060.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -162,7 +155,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt050.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -175,7 +167,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt040.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -188,7 +179,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt030.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -201,7 +191,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt020.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
     <rect
@@ -214,7 +203,6 @@
        rx="5.990912"
        ry="1.608"
        transform="scale(1,-1)"
-       inkscape:export-filename="/Users/johnpeter/Illustrations/batt010.png"
        inkscape:export-xdpi="287.52081"
        inkscape:export-ydpi="287.52081" />
   </g>
