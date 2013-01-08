@@ -18,8 +18,4 @@ print int(charge*100)
 
 level = int(charge*10)
 
-
-if level < 1:
-	level = 1
-
 os.system('cp batt0' + str(level) + '0.png x.png')
